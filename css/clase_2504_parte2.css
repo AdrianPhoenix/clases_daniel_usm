@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/* Normalizar el navegador */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+/*Modelo de Cajas en CSS */
+.p{
+
+    height: 200px;
+    width: 300px;
+
+    background-color: black;
+    font-size: 20px;
+    color: aliceblue;
+
+    /*Márgenes 
+
+    margin-top: 90px;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    */
+    margin: 50px 50px 15px 25px;
+
+    /* Bordes en CSS */
+
+    border: 10px solid red;
+
+    /* Padding en CSS */ 
+
+    padding: 35px 17px 25px 25px;
+
+    /* Desbordamiento del contenido*/
+
+    overflow: auto;
+}
+
+.p_2{
+    background: #0f0;
+    height: 200px;
+    width: 362px;
+
+    margin-left: 25px;
+    
+}

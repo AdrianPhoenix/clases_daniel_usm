@@ -1,0 +1,47 @@
+
+
+/*
+    selector {
+        propiedad: "valor";
+    }
+*/
+
+/* Selector por nombre */
+
+
+
+h1{
+    color: red;
+    font-size: 70px;
+}
+
+h1{
+    color: blueviolet;
+}
+
+p{
+    background-color: black;
+    color: #fff;
+}
+
+/* Selector por clase */
+
+.title {
+    color: green;
+}
+
+.paragraph{
+    background: gold;
+    color: brown;
+}
+
+.p_2{
+    background: blue;
+    color: #fff;
+}
+
+/* Selector por id */
+
+#title_1 {
+    color: firebrick;
+}
